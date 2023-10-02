@@ -63,7 +63,7 @@ https://github.com/ivan-risueno/FIB-EDA_Game-2021Q2
 cp AIDummy.o.Linux64 AIDummy.o
 ```
 
-3. Compile the game. It can be made with the command
+3. Compile the game. It can be done with the command
 
 ```sh
 make all
