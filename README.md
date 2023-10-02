@@ -96,10 +96,6 @@ To see a list of diferent options and parameters for the execution, run:
 As mentioned before, you can also visualize a recent execution. Just open the [viewer](https://github.com/ivan-risueno/FIB-EDA_Game-2021Q2/blob/main/Viewer/viewer.html) with a browser, and open the .out file generated with that execution.
 
 
-### Creating A Pull Request
-
-
-
 ## Authors
 
 * **ivan-risueno** - *By the time this game contest was active, I were in second year of university, yet learning how to code.* - [ivan-risueno](https://github.com/ivan-risueno/) - *[AIIvan.cc file](https://github.com/ivan-risueno/FIB-EDA_Game-2021Q2/blob/main/AIIvan.cc)*
