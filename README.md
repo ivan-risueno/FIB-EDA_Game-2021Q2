@@ -69,7 +69,7 @@ cp AIDummy.o.Linux64 AIDummy.o
 make all
 ```
 
-For further information about the compilation check the [Makefile](https://github.com/ivan-risueno/FIB-EDA_Game-2021Q2/blob/main/Makefile).
+_For further information about the compilation check the [Makefile](https://github.com/ivan-risueno/FIB-EDA_Game-2021Q2/blob/main/Makefile)._
 
 ## Usage
 
